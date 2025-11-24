@@ -8,4 +8,5 @@
 - Dati geografici © OpenStreetMap contributors (ODbL)
 
 email (pocketBase) = lucamerigo0610@gmail.com
+
 psw (pocketBase) = Lutrer01_!
