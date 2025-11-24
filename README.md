@@ -6,3 +6,6 @@
 - Open-Meteo – dati meteorologici (API — verificare Termini di Servizio)
 - Nominatim / OpenStreetMap – geocoding e informazioni sui luoghi (dati: ODbL; service: verificare policy d'uso)
 - Dati geografici © OpenStreetMap contributors (ODbL)
+
+email (pocketBase) = lucamerigo0610@gmail.com
+psw (pocketBase) = Lutrer01_!
